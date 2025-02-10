@@ -1,10 +1,10 @@
-**First Clone the Repository**
+**First Clone the Repository/ Download The Zip**
 
 **System Setup:**
 
 1. Open Eclipse IDE
 2. Click File tab
-3. Click to Import
+3. Click to Import 
 4. Click to General 
 5. Select project from Folder or Archive
 6. Click Next
@@ -16,3 +16,5 @@ After Successfully imported the folder
 Clik pom.xml file & Save the All Dependencies
 
 After that Click the package According to the Task given and Run the Class 
+
+**N.B:** Import the Extract Folder
